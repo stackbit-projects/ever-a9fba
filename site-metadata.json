@@ -27,7 +27,7 @@
                 "style": "link"
             },
             {
-                "label": "Sign Up",
+                "label": "Nous contacter",
                 "url": "/signup",
                 "style": "primary"
             }
