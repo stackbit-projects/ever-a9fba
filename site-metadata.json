@@ -4,7 +4,7 @@
     "header": {
         "sections": [
             {
-                "type": "footer_text",
+                "type": "header_text",
                 "logo_img": "images/friendly-potato.svg",
                 "logo_img_alt": "Logo",
                 "has_nav": true,
