@@ -7,7 +7,12 @@
                 "type": "header_text",
                 "logo_img": "images/friendly-potato.svg",
                 "logo_img_alt": "Logo",
-                "has_nav": true,
+                "has_nav": true
+                 },
+            {
+                "type": "footer_nav",
+                "title": "Company",
+                "nav_links": [
                 "nav_links": [
             {
                 "label": "Accueil",
