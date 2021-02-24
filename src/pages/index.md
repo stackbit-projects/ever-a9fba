@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/Capture_d_écran_2021-02-16_à_02.56.59-removebg-preview.png
     image_alt: App preview
     title: This Is A Big Hero Headline
     content: >-
