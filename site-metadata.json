@@ -2,19 +2,19 @@
     "base_font": "nunito-sans",
     "palette": "blue",
     "header": {
-        "sections": [
-            {
-                "logo_img": "images/friendly-potato.svg",
-                "logo_img_alt": "Logo",
-                "has_nav": true,
+        "logo_img": "images/friendly-potato.svg",
+        "logo_img_alt": "Logo",
+        "has_nav": true,
         "nav_links": [
             {
                 "label": "Accueil",
                 "url": "/",
                 "style": "link"
             },
-            
-            
+            {
+                "url": "/features",
+                "style": "link"
+            },
             {
                 "label": "HORIZON",
                 "url": "lorem-ipsum",
@@ -27,7 +27,7 @@
                 "type": "action"
             },
             {
-                "label": "OCSP",
+                "label": "lorem-ipsum",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "has_icon": false,
