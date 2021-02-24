@@ -13,18 +13,16 @@
                 "type": "header_nav",
                 "title": "Produit",
                 "nav_links": [
-                      {
-                "label": "HORIZON",
-                "url": "lorem-ipsum",
-                "style": "link",
-               
-            },
-            {
-                "label": "OCSP",
-                "url": "lorem-ipsum",
-                "style": "link",
-               
-            },
+                {
+                    "label": "HORIZON",
+                    "url": "lorem-ipsum",
+                    "style": "link",
+               },
+                {
+                    "label": "OCSP",
+                    "url": "lorem-ipsum",
+                    "style": "link",
+               },
                 
             {
                 "label": "Accueil",
