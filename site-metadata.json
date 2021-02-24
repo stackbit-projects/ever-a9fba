@@ -4,13 +4,13 @@
     "header": {
         "sections": [
             {
-                "type": "header_text",
+                "type": "header_nav",
                 "logo_img": "images/friendly-potato.svg",
                 "logo_img_alt": "Logo",
                 "has_nav": true
                  },
             {
-                "type": "footer_nav",
+                "type": "header_nav",
                 "title": "Company",
                 "nav_links": [
                 
