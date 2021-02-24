@@ -4,7 +4,6 @@ subtitle: A story about customer loyalty
 author: src/data/authors/jane-doe.yaml
 excerpt: "EverTrust OCSP is a full featured, easy to use\_and versatile OCSP responder solution,\_meeting the needs related to certificate\_validation within corporate environments or\_over the Internet.\_\_EverTrust OCSP complies\_with RFCs 5019 &amp; 6960, and is\_\_compatible with most PKI platforms, as it is\_\_able to retrieve the revocation information\_\_using the CRL."
 date: '2021-01-03'
-thumb_image: images/3_thumb.jpg
 thumb_image_alt: A group of people working in a cafe
 image: images/3.jpg
 image_alt: A group of people working in a cafe
