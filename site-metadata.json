@@ -11,7 +11,7 @@
                 "url": "/",
                 "style": "link"
             },
-            
+            {
                 "type": "footer_nav",
                 "title": "Company",
                 "nav_links": [
