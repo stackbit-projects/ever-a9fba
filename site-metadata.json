@@ -11,10 +11,11 @@
                 "url": "/",
                 "style": "link"
             },
-            {
-                "url": "/features",
-                "style": "link"
-            },
+            
+            "type": "footer_nav",
+                "title": "Company",
+                "nav_links": [
+                    {
             {
                 "label": "HORIZON",
                 "url": "lorem-ipsum",
