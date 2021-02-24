@@ -17,16 +17,26 @@
                 "style": "link"
             },
             {
-                "label": "HORIZON",
+                "label": "lorem-ipsum",
                 "url": "lorem-ipsum",
                 "style": "link",
-               
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "left",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
             },
             {
                 "label": "lorem-ipsum",
                 "url": "lorem-ipsum",
                 "style": "link",
-                
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "left",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
             },
             {
                 "label": "Solutions",
@@ -39,16 +49,26 @@
                 "style": "link"
             },
             {
-                "label": "Partenaires",
+                "label": "lorem-ipsum",
                 "url": "lorem-ipsum",
                 "style": "link",
-                
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "left",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
             },
             {
                 "label": "Support",
                 "url": "lorem-ipsum",
                 "style": "link",
-               
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "left",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
             },
             {
                 "label": "Nous contacter",
