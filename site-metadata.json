@@ -5,8 +5,8 @@
         "sections": [
             {
                 "logo_img": "images/friendly-potato.svg",
-        "logo_img_alt": "Logo",
-        "has_nav": true,
+                "logo_img_alt": "Logo",
+                "has_nav": true,
         "nav_links": [
             {
                 "label": "Accueil",
