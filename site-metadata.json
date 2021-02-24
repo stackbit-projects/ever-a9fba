@@ -14,7 +14,12 @@
             {
                 "label": "Produits",
                 "url": "/features",
-                "style": "link"
+                "nav_links": [
+                    {
+                        "label": "About Us",
+                        "url": "/about",
+                        "style": "link"
+                    },
             },
             {
                 "label": "Solutions",
