@@ -2,9 +2,7 @@
 title: EverTrust OCSP
 subtitle: A story about customer loyalty
 author: src/data/authors/jane-doe.yaml
-excerpt: >-
-  A story about customer loyalty curabitur sed consectetur nisi. Integer sit
-  amet commodo massa.
+excerpt: "EverTrust OCSP is a full featured, easy to use\_and versatile OCSP responder solution,\_meeting the needs related to certificate"
 date: '2021-01-03'
 thumb_image: images/3_thumb.jpg
 thumb_image_alt: A group of people working in a cafe
