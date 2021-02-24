@@ -11,7 +11,7 @@ sections:
       offensionibus, te auctoritatem huius ordinis dignitatemque rei publicae
       tuis vel doloribus ctae vria.
     actions:
-      - label: Learn More
+      - label: Nous contacter
         url: /features
         style: primary
   - section_id: features
