@@ -2,6 +2,8 @@
     "base_font": "nunito-sans",
     "palette": "blue",
     "header": {
+        "sections": [
+            {
         "logo_img": "images/friendly-potato.svg",
         "logo_img_alt": "Logo",
         "has_nav": true,
