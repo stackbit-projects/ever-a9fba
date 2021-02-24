@@ -109,11 +109,7 @@
                         "url": "/contact",
                         "style": "link"
                     }
-                    {
-                        "label": "Support",
-                        "url": "/contact",
-                        "style": "link"
-                    }
+                    
                 ]
             },
             {
