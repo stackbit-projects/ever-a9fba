@@ -12,15 +12,10 @@
                 "style": "link"
             },
             {
-                "type": "header",
-                "title": "Produits",
-                "nav_links": [
-                    {
-                        "label": "About Us",
-                        "url": "/about",
-                        "style": "link"
-                    },
-            
+                "label": "Produits",
+                "url": "/features",
+                "style": "link"
+            },
             {
                 "label": "Solutions",
                 "url": "/pricing",
