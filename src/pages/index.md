@@ -6,9 +6,10 @@ sections:
     image: images/Capture_d_écran_2021-02-16_à_02.56.59-removebg-preview.png
     image_alt: App preview
     title: WE ARE DIGITAL TRUST EXPERTSWE ARE EVERTRUST
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      Marcellum senatui reique publicae concessisti, commemoratis praesertim
+      offensionibus, te auctoritatem huius ordinis dignitatemque rei publicae
+      tuis vel doloribus ctae vria.
     actions:
       - label: Learn More
         url: /features
