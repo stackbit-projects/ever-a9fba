@@ -12,7 +12,7 @@
                 "style": "link"
             },
             {
-                "label": "Produits",
+                "type": "Produits",
                 "url": "/features",
                 "nav_links": [
                     {
