@@ -1,8 +1,6 @@
 ---
 title: EverTrust Horizon
-excerpt: >-
-  Work at home parent is an entrepreneur who works from home and integrates
-  parenting into his or her business activities.
+excerpt: "EverTrust Horizon is a full-feature, easy to use\_\_and versatile PKI Automation solution, able to\_\_meet the needs related to automated\_\_certificate issuance, renewal and revocation\_\_for corporate environments, while ensuring\_\_compliance at issuance time and over time\_\_via the SSL scanner. With EverTrust Horizon,\_\_you can forever get rid of certificate\_\_management hassle, while keeping your\_\_Information System safe!"
 author: src/data/authors/jane-doe.yaml
 date: '2020-04-22'
 thumb_image: images/9_thumb.jpg
