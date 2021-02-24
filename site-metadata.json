@@ -4,34 +4,39 @@
     "header": {
         "sections": [
             {
-                "type": "header_nav",
                 "logo_img": "images/friendly-potato.svg",
                 "logo_img_alt": "Logo",
-                "has_nav": true
-                 },
-            {
-                "type": "header_nav",
-                "title": "Produit",
-                "nav_links": [
-                {
-                    "label": "HORIZON",
-                    "url": "lorem-ipsum",
-                    "style": "link",
-               },
-                {
-                    "label": "OCSP",
-                    "url": "lorem-ipsum",
-                    "style": "link",
-               },
-               ]
-               },
-                
+                "has_nav": true,
+        "nav_links": [
             {
                 "label": "Accueil",
                 "url": "/",
                 "style": "link"
             },
             
+            
+            {
+                "label": "HORIZON",
+                "url": "lorem-ipsum",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "left",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
+                "label": "OCSP",
+                "url": "lorem-ipsum",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "left",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
             {
                 "label": "Solutions",
                 "url": "/pricing",
@@ -69,7 +74,7 @@
                 "url": "/signup",
                 "style": "primary"
             }
-        ],
+        ]
     },
     "footer": {
         "sections": [
