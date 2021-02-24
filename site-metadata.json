@@ -113,32 +113,6 @@
             },
             {
                 "type": "footer_nav",
-                "title": "Solutions",
-                "nav_links": [
-                    {
-                        "label": "About Us",
-                        "url": "/about",
-                        "style": "link"
-                    },
-                    {
-                        "label": "Blog",
-                        "url": "/blog",
-                        "style": "link"
-                    },
-                    {
-                        "label": "Sign Up",
-                        "url": "/signup",
-                        "style": "link"
-                    },
-                    {
-                        "label": "Contact",
-                        "url": "/contact",
-                        "style": "link"
-                    }
-                ]
-            },
-            {
-                "type": "footer_nav",
                 "title": "Produits",
                 "nav_links": [
                     {
