@@ -12,7 +12,7 @@
                 "style": "link"
             },
             {
-                "type": "Produits",
+                "type": "header",
                 "title": "Produits",
                 "nav_links": [
                     {
